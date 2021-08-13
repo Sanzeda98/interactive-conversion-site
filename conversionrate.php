@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<meta charset="UTF-8">
+<title> ConversionRate</title>
+<script src="conversion.js"> </script>
 </head>
 <body>
 
@@ -12,14 +14,12 @@
 
   <h3 style="color: red;">Page 2 [Conversion Rate]</h3>
   <h3 style="color: red;">Conversion Site</h3>
-<p><a href="home.php">1.Home &nbsp</a><a href="conversionrate.php">2.Conversion Rate &nbsp</a><a href="history.txt">3.History</a></p>
+<p><a href="home.php">1.Home &nbsp</a><a href="conversionrate.php">2.Conversion Rate &nbsp</a><a href="history.php">3.History</a></p>
 
 <div style="width: 80px;height: 30px;border: 3px solid black;text-align: center;margin-top:30px;margin-left: 50px;display: inline-block; "> Feet to Inch</div>
 
 <div style="width: 80px;height: 30px;border: 3px solid black;text-align: center;margin-top:30px;margin-left: 20px;display: inline-block;"> 1</div>
 <div style="width: 80px;height: 30px;border: 3px solid black;text-align: center;margin-top:30px;margin-left: 20px;display: inline-block;"> 12</div>
-
-
 
 
 <div style=" font-size: 12px ; width:  80px;height: 30px;border: 3px solid black;text-align: center;margin-top:30px;margin-left: 50px;display: inline-block; ">Kilometer to Meter</div>
